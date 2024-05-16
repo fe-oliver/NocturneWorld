@@ -1,6 +1,5 @@
 #    Nocturne World
-#### Video Demo:  https://youtu.be/WLgr9Mp-VDc
-#### Description:
+
 
 ### ✨The beggining
 It all started when I thought about doing the final project. At first, I wanted to use C language, cause I really liked it. But later, I noticed that I was just avoiding frontend, even during the course, I was just doing the necessary. And I have chosen not to keep with fear and not to contempt myself with the low level of skills that I had. That's when Nocturne World begun.
